@@ -1,6 +1,6 @@
 # sparkstreaming-kafka
 
-use spark to consume streaming data by sparkstreaming moudle, there are two different way to consume kafka streaming data, the first one is Receiver-based Approach, using the Kafka high-level consumer API, and the second way is Direct Approach, This way has the much more advantages than the first way. Eg:
+Using spark to consume streaming data by sparkstreaming moudle, there are two different way to consume kafka streaming data, the first one is Receiver-based Approach, using the Kafka high-level consumer API, and the second way is Direct Approach, This way has the much more advantages than the first way. Eg:
 * **Simplified Parallelism**
 * **Efficiency**
 * **Exactly-once semantics**
